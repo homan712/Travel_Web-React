@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/homan712/Travel_web_react.git/static/css/main.c2b38aea.chunk.css",
+    "main.js": "/homan712/Travel_web_react.git/static/js/main.43d05be8.chunk.js",
+    "main.js.map": "/homan712/Travel_web_react.git/static/js/main.43d05be8.chunk.js.map",
+    "runtime-main.js": "/homan712/Travel_web_react.git/static/js/runtime-main.3e6c5d61.js",
+    "runtime-main.js.map": "/homan712/Travel_web_react.git/static/js/runtime-main.3e6c5d61.js.map",
+    "static/js/2.9bf368a2.chunk.js": "/homan712/Travel_web_react.git/static/js/2.9bf368a2.chunk.js",
+    "static/js/2.9bf368a2.chunk.js.map": "/homan712/Travel_web_react.git/static/js/2.9bf368a2.chunk.js.map",
+    "index.html": "/homan712/Travel_web_react.git/index.html",
+    "static/css/main.c2b38aea.chunk.css.map": "/homan712/Travel_web_react.git/static/css/main.c2b38aea.chunk.css.map",
+    "static/js/2.9bf368a2.chunk.js.LICENSE.txt": "/homan712/Travel_web_react.git/static/js/2.9bf368a2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/homan712/Travel_web_react.git/static/media/img-9.f97f588f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e6c5d61.js",
+    "static/js/2.9bf368a2.chunk.js",
+    "static/css/main.c2b38aea.chunk.css",
+    "static/js/main.43d05be8.chunk.js"
+  ]
+}
